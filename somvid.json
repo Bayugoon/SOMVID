@@ -7642,5 +7642,12 @@
     "finalReupload": true,
     "release": "1.19.4",
     "name": "1.19.4 Release Candidate 3"
+  },
+  "JE-01B-03A-0": {
+    "launcherID": "1.19.4-",
+    "reupload": 0,
+    "finalReupload": true,
+    "release": "1.19.4",
+    "name": "1.19.4"
   }
 }
